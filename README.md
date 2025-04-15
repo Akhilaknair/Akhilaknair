@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Akhila👩‍💻</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=A+good+developer+is+an+artist+with+logic+and+a+keyboard.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Code+it+till+you+make+it+%21)](https://git.io/typing-svg)
 
 ---
 
