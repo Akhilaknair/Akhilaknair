@@ -1,6 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Akhila👩‍💻</h1>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=while(!succeed)+%7B+tryAgain()%3B" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=while(!succeed)+%7B+tryAgain()%3B+%7D" />
+
 
 </p>
 
@@ -45,7 +46,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyz&show_icons=true&theme=github_dark&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhilaknair&show_icons=true&theme=github_dark&hide_border=true"  />
 </p>
 
 ---
@@ -53,7 +54,7 @@
 ### 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyz&theme=github-dark&hide_border=true"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilaknair&theme=github-dark&hide_border=true"  />
 </p>
 
 ---
@@ -61,7 +62,7 @@
 ### 🧠 Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilaknair&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages Used" />
 </p>
 
 ---
@@ -69,7 +70,7 @@
 ### 🗺️ Contribution Graph
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyz&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilaknair&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -77,7 +78,7 @@
 ### 👀 Visitor Count
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xyz&label=Profile+views&color=brightgreen&style=flat" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Akhilaknair&label=Profile+views&color=brightgreen&style=flat" alt="Visitor count" />
 </p>
 
 ---
