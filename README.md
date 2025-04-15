@@ -1,6 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Akhila👩‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=while(!succeed)+%7B+tryAgain()%3B+%7D" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=while(!succeed)+%7B+tryAgain()%3B" />
+
 </p>
 
 ---
