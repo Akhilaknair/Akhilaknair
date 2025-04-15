@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Akhila👩‍💻</h1>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=while(!succeed)+%7B+tryAgain()%3B+%7D" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=while(!succeed)+%7B+tryAgain()+%3B+%7D" />
 
 </p>
 
@@ -53,8 +53,9 @@
 ### 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Akhilaknair&theme=github-dark&hide_border=true"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilaknair&theme=github-dark&hide_border=true"  />
 </p>
+
 
 ---
 
