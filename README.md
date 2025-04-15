@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Akhila👩‍💻</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=while(!succeed)+%7B+tryAgain()+%7D" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=while(!succeed)+%7B+tryAgain()%3B+%7D&repeat=true&cursor=%7C" />
+
 </p>
 
 ---
