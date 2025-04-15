@@ -44,7 +44,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyz&show_icons=true&theme=github_dark&hide_border=true" alt="xyz's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xyz&show_icons=true&theme=github_dark&hide_border=true"  />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ### 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyz&theme=github-dark&hide_border=true" alt="xyz's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyz&theme=github-dark&hide_border=true"  />
 </p>
 
 ---
@@ -89,6 +89,4 @@
 
 ### ⭐ Thanks for stopping by!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
-</p>
+
