@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Akhila👩‍💻</h1>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=1000&color=00FF00&center=true&vCenter=true&width=690&lines=while(!succeed)+%7B+tryAgain()%3B+%7D&repeat=true&cursor=%7C" />
 
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Eat%2C+Sleep%2C+Code%2C+Repeat.;Debugging+is+twice+as+hard+as+writing+the+code.;Keep+calm+and+code+on.;Think+twice%2C+code+once.)](https://git.io/typing-svg)
+
 
 ---
 
