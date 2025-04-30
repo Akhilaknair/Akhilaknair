@@ -65,14 +65,6 @@
 
 ---
 
-### 🗺️ Contribution Graph
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilaknair&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### 👀 Visitor Count
 
 <p align="left">
