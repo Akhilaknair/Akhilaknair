@@ -43,19 +43,19 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhilaknair&show_icons=true&theme=github_dark&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhilaknair&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
 
-### 🔥 Contribution Streak + Graph
+### 🔥 Streak & Graph
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhilaknair&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Akhilaknair&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilaknair&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilaknair&theme=github-dark&hide_border=true&area=true&hide_title=true&custom_title=My+GitHub+Activity&radius=8" width="100%" />
 </p>
 
 ---
