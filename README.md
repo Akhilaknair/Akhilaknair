@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I'm a passionate developer who loves problem solvings.
+- 💻 I'm a passionate developer who loves problem solving.
 - 🤖 Focused on AI, ML, and full-stack web development using MERN.
 - 🧠 Currently learning more about Data Science and ML
 
@@ -40,30 +40,29 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 GitHub Stats & Streak
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhilaknair&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akhilaknair&theme=radical)
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhilaknair&show_icons=true&theme=radical)
 
 ---
 
-### 🔥 Streak & Graph
+### 📈 Contribution Graph
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Akhilaknair&theme=github-dark&hide_border=true" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilaknair&theme=radical&hide_border=true&area=true)
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilaknair&theme=github-dark&hide_border=true&area=true&hide_title=true&custom_title=My+GitHub+Activity&radius=8" width="100%" />
-</p>
+---
+
+### 🧩 Contribution Summary Card
+
+![GitHub Contribution Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhilaknair&theme=radical)
 
 ---
 
 ### 🧠 Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilaknair&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilaknair&layout=compact&theme=radical&hide_border=true" alt="Top Languages Used" />
 </p>
 
 ---
