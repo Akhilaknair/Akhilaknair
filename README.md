@@ -42,27 +42,21 @@
 
 ### 🚀 GitHub Stats & Streak
 
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akhilaknair&theme=radical)
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhilaknair&show_icons=true&theme=radical)
-
----
-
-### 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilaknair&theme=radical&hide_border=true&area=true)
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akhilaknair&theme=tokyonight)
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhilaknair&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🧩 Contribution Summary Card
 
-![GitHub Contribution Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhilaknair&theme=radical)
+![GitHub Contribution Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhilaknair&theme=tokyonight)
 
 ---
 
 ### 🧠 Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilaknair&layout=compact&theme=radical&hide_border=true" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilaknair&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Used" />
 </p>
 
 ---
