@@ -48,12 +48,15 @@
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 Contribution Streak + Graph
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilaknair&theme=github-dark&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhilaknair&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilaknair&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
@@ -80,5 +83,3 @@
 ---
 
 ### ⭐ Thanks for stopping by!
-
-
